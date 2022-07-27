@@ -10,14 +10,14 @@ function App() {
   const [tasks, setTask] = useState([
     {
       id: 1,
-      text: "Doctors Appointment",
-      day: "Feb 5th at 2:30pm",
+      text: "Meet with Goodness",
+      day: "Thu Jul 07 2022 22:47:09 GMT+0100 (West Africa Standard Time)",
       reminder: true,
     },
     {
       id: 2,
-      text: "Meeting at School",
-      day: "Feb 6th at 1:30pm",
+      text: "Do Laundry",
+      day: "Sat Jul 30 2022 00:00:00 GMT+0100 (West Africa Standard Time)",
       reminder: false,
     },
   ]);
